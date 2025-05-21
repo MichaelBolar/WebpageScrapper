@@ -40,8 +40,6 @@ print(dotset)
 #Open up each companies website
 for j in dotset:
     browser.get(j)
-
-#If the company has an email address, find it and save it somewhere
  
 
     
