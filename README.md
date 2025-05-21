@@ -1,0 +1,1 @@
+This is a simple webscrapper made using Selenium. It's purpose is to open Firefox, go to https://goatlantalocal.com/, open each companies subpage and then open up their website in a seperate tab. This was fun to make and was a good introduction to the concept of data collection.
